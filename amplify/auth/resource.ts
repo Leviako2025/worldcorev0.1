@@ -9,3 +9,5 @@ export const auth = defineAuth({
     email: true,
   },
 });
+
+https://world-core-93080.firebaseapp.com/__/auth/handler
